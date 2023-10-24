@@ -117,7 +117,7 @@ tomar decisões mais assertivas.
 O trabalho é utilizar os dados que a empresa Fome Zero possui e responder as
 perguntas feitas do CEO e criar o dashboard solicitado.
 
-# Estratégia de solução
+# 4. Estratégia de solução
 
 Em Visão Geral podemos verificar alguns quantitativos, como:
 
@@ -148,18 +148,14 @@ Em Visão Culinárias:
 2. Um Dataframe que Mostra até os 20 Melhores Restaurantes Registrados;
 3. Top 10 Melhores Tipos Culinários;
 4. Top 10 Piores Tipos Culinários.
+
+# 5. Produto final
+Painel online, hospedado em um Cloud e disponível para acesso em
+qualquer dispositivo conectado à internet.
+O painel pode ser acessado através desse link: https://zomato-fomezero-carneiro.streamlit.app/
    
-# Conclusão
-Você recebeu um desafio de Ciência de Dados próximo dos desafios reais das
-empresas e você irá utilizar todo o conhecimento adquirido no curso FTC -
-Analisando Dados com Python para resolvê-lo.
-Os problemas nas empresas chegam em forma de perguntas abertas,
-desestruturadas e sem nenhuma dica sobre como resolver, então, utilizar os
-conhecimentos adquiridos no curso serão fundamentais para o seu sucesso na sua
-jornada como um profissional de Ciência de Dados.
-É papel do Cientista de Dados entender a causa raiz, planejar o desenvolvimento e
-criar a melhor solução para o problema de negócio.
-Aproveite esse desafio para colocar em prática tudo que você aprendeu ao longo do
-curso! E caso tenha alguma dificuldade, utilize o poder da Comunidade DS:
-Publique ela dentro do canal do curso no Discord para discutir com a galera as suas
-dúvidas
+# 6. Conclusão
+O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que
+exibam essas métricas da melhor forma possível para o CEO.
+Da visão da Empresa, podemos concluir que o número de pedidos
+cresceu entre a semana 06 e a semana 13 do ano de 2022.
