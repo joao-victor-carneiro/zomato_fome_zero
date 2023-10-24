@@ -12,7 +12,7 @@ st.sidebar.image(image, width=270)
 
 st.sidebar.header('FOME ZERO')
 st.sidebar.markdown("""---""")
-st.sidebar.markdown('## :gray[Powered by Carneiro]:sunglasses:')
+st.sidebar.markdown('## Powered by Carneiro :sunglasses:')
 
 st.write('# FOME ZERO ZOMATO DASHBOARD')
 
