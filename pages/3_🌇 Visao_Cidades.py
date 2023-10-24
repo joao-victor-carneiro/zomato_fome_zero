@@ -15,7 +15,6 @@ from PIL import Image
 from streamlit_folium import folium_static
 from folium.plugins import MarkerCluster
 import re
-import inflection
 st.set_page_config(page_title='Visão Cidades', page_icon='🌇', layout= 'wide')
 #================================#
 #Importação de dados
