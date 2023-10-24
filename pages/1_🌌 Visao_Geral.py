@@ -15,7 +15,7 @@ from PIL import Image
 from streamlit_folium import folium_static
 from folium.plugins import MarkerCluster
 import re
-import inflection
+#import inflection
 import pandas as pd
 st.set_page_config(page_title='Visão Geral',page_icon='🌌',layout='wide')
 #================================#
