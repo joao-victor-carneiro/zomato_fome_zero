@@ -1,4 +1,4 @@
-# zomato_fome_zero
+# ZOMATO FOME ZERO
 # 1. Contexto do Problema de Negócio
 A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core
 business é facilitar o encontro e negociações de clientes e restaurantes. Os
