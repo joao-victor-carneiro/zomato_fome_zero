@@ -254,7 +254,7 @@ with st.container():
 with st.container():
   st.markdown(f'## Top {top_restaurant_silder} Restaurantes')
   df1 = f_top_restaurant(df1)
-  st.dataframe(df1,hide_index=True)
+  st.dataframe(df1)
   
 with st.container():
   col1,col2 = st.columns(2,gap='small')
