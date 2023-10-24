@@ -176,7 +176,7 @@ countries_options = st.sidebar.multiselect(
        'Sri Lanka', 'Turkey'],
     default = ['Brazil','India','England','South Africa','United States of America'])
 st.sidebar.markdown("""---""")
-st.sidebar.markdown('## :gray[Powered by Carneiro]:sunglasses:')
+st.sidebar.markdown('## Powered by Carneiro :sunglasses:')
 
 #------Filtro de culinária----#
 linhas_selecionadas = df1['Country_Name'].isin(countries_options)

@@ -217,7 +217,7 @@ cuisines_options = st.sidebar.multiselect(
        'Kokoreç'],
     default = ['Home-made','Japanese','BBQ','Brazilian','Arabian','American','Italian','Chinese'])
 
-st.sidebar.markdown('## :gray[Powered by Carneiro]:sunglasses:')
+st.sidebar.markdown('## Powered by Carneiro :sunglasses:')
 
 #------Filtro de Países----#
 linhas_selecionadas = df1['Country_Name'].isin(countries_options)
